@@ -7,7 +7,7 @@ package taller8;
 
 /**
  *
- * @author Nixon
+ * @author Nahin05
  */
 import java.util.Scanner;
 public class Problema3 {
